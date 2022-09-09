@@ -2,7 +2,7 @@
 body, html{
     height: 100%;
     color:#000;
-    font-family: Fira Sans;
+    font-family: 'Fira Sans', sans-serif;
     line-height: 1.85;
     font-size: 1.2em;
 }
@@ -27,12 +27,16 @@ h1{
 h2{
     font-size: 1.5rem;
     padding-top: 20px;
+    margin-right: 0px;
 }
 p{
     font-size: 0.7em;
 }
 div{
     margin-right: 25px;
+}
+#margin-right{
+    margin-right: 0px;
 }
 #black{
     padding: 0px;
@@ -148,8 +152,9 @@ div{
 }
 #indirizzo{
     padding-top: 15px;
-    padding-bottom:30px;
+    padding-bottom:20px;
     text-align: center;
+    margin-right: 0px;
 }
 #section{
     padding-top: 50px;
@@ -183,8 +188,11 @@ span{
 }
 /* FOOTER */
 footer{
+    padding: 0px;
+    padding-left:70px ;
     background-color: rgb(238, 238, 238);
     width: 100vw;
+    margin-right: 0px;
     
 }
 /* RESPONSIVE */
