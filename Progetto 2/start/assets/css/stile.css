@@ -1,6 +1,6 @@
 /* IMPOSTAZIONI GENERALI */
-body, html{
-    height: 100%;
+body{
+    height: 100vh;
     color:#000;
     font-family: 'Fira Sans', sans-serif;
     line-height: 1.85;
@@ -167,6 +167,7 @@ div{
 }
 table{
     margin:0 auto;
+    border-collapse: collapse;
 }
 table th{
     color: white;
