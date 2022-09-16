@@ -87,6 +87,9 @@ i{
     display: flex;
     flex-direction: row;
 }
+.div-p2{
+    margin-right:20px;
+}
 .button-1{
     background: linear-gradient(90deg, rgba(108,193,226,1) 35%, rgba(57,47,122,1) 100%);
     color: white;
