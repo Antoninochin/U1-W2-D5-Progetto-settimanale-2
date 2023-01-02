@@ -115,7 +115,7 @@ i{
     font-size: 1em;
 }
 .button-4{
-    width: 13.4vw;
+    width: 100%;
     padding: 50px;
     border: none;
     margin-top:0px;
@@ -183,10 +183,7 @@ i{
     line-height: 1.5em;
     margin-bottom: 70px;
 }
-.flex3{
-    padding-top: 50px;
-    margin-bottom: 20px;
-}
+
 .flex4{
     padding-top: 70px;
     font-size: 1em;
